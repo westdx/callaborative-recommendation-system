@@ -1,8 +1,6 @@
 #Collaborative based for Recommendation:
 1. Place the following files in a same folder:
     transactions_train_data.csv
-    customers_train_data
-    articles
     collaborative_based.ipynb
  
 2. Run the collaborative_based.ipynb jupyter notebook except the very last line of the code.
